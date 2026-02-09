@@ -21,3 +21,7 @@ Simply download the apk file on your phone and install it, if there is a prompt 
 
 Right now, the app only works for Android environments, because I dont want to pay apple and am a bit lazy to post it as a webapp.
 I will probably upload it sometime, but just not now -_-
+
+## Demo
+
+![Nmap Reference App Demo](Demo/App_Demo.gif)
